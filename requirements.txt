@@ -1,0 +1,6 @@
+requests==2.25.0
+selenium==3.141.0
+pytest==6.1.2
+Pillow==8.1.0
+pytest-dependency==0.5.1
+PyAutoGUI==0.9.52

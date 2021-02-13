@@ -1,0 +1,5 @@
+2020-12-09 22:28:07,552 - DEBUG - debug message
+2020-12-09 22:28:07,553 - INFO - info message
+2020-12-09 22:28:07,553 - WARNING - warning message
+2020-12-09 22:28:07,553 - ERROR - error message
+2020-12-09 22:28:07,554 - CRITICAL - critical massaeg

@@ -1,0 +1,19 @@
+2021-02-01 08:43:47,495 - DEBUG - username:lKoj3sk8,password:4170296583@qq.com, password:123456, captcha:666
+2021-02-01 08:45:03,780 - DEBUG - username:14DIdzAv,password:6490138752@qq.com, password:123456, captcha:666
+2021-02-01 08:45:30,629 - DEBUG - username:p7VARObH,password:7865210349@qq.com, password:123456, captcha:666
+2021-02-01 08:51:01,458 - DEBUG - username:Z3cERn1Q,password:8421507639@qq.com, password:123456, captcha:666
+2021-02-01 08:51:03,058 - INFO - {"showapi_res_error":"未找到可用资源包，请检查是否未订购套餐，或者当前调用量已为0。","showapi_res_code":-2,"showapi_res_body":{}}
+
+2021-02-01 08:51:03,058 - INFO - {"showapi_res_error":"未找到可用资源包，请检查是否未订购套餐，或者当前调用量已为0。","showapi_res_code":-2,"showapi_res_body":{}}
+
+2021-02-01 08:55:44,621 - DEBUG - username:E0VHYicx,password:1025938746@qq.com, password:123456, captcha:666
+2021-02-01 08:55:46,310 - DEBUG - {"showapi_res_error":"未找到可用资源包，请检查是否未订购套餐，或者当前调用量已为0。","showapi_res_code":-2,"showapi_res_body":{}}
+
+2021-02-01 08:55:46,310 - DEBUG - {"showapi_res_error":"未找到可用资源包，请检查是否未订购套餐，或者当前调用量已为0。","showapi_res_code":-2,"showapi_res_body":{}}
+
+2021-02-01 09:01:24,247 - DEBUG - username:4fJVnSop,password:5604721839@qq.com, password:123456, captcha:666
+2021-02-01 09:07:21,267 - DEBUG - username:Ej7ZwmHS,password:7605348912@qq.com, password:123456, captcha:666
+2021-02-01 09:07:22,821 - INFO - {"showapi_res_error":"未找到可用资源包，请检查是否未订购套餐，或者当前调用量已为0。","showapi_res_code":-2,"showapi_res_body":{}}
+
+2021-02-01 09:07:22,821 - INFO - {"showapi_res_error":"未找到可用资源包，请检查是否未订购套餐，或者当前调用量已为0。","showapi_res_code":-2,"showapi_res_body":{}}
+

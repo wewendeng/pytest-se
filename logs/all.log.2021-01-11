@@ -1,0 +1,5 @@
+2021-01-11 08:24:14,176 - DEBUG - debug message
+2021-01-11 08:24:14,177 - INFO - info message
+2021-01-11 08:24:14,177 - WARNING - warning message
+2021-01-11 08:24:14,177 - ERROR - error message
+2021-01-11 08:24:14,179 - CRITICAL - critical massaeg

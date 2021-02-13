@@ -1,0 +1,122 @@
+2021-02-11 15:04:19,811 - DEBUG - username:soSC5l3t,password:4671520893@qq.com, password:123456, captcha:666
+2021-02-11 15:05:40,031 - DEBUG - username:yieNVnvW,password:8951672043@qq.com, password:123456, captcha:666
+2021-02-11 15:05:41,640 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'baem', 'id': '04faf49e72f44e08ab8a99bae233de09'}}
+2021-02-11 15:05:41,640 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'baem', 'id': '04faf49e72f44e08ab8a99bae233de09'}}
+2021-02-11 15:05:41,703 - DEBUG - username:Omjblqs0,password:4375298061@qq.com, password:123456, captcha:None
+2021-02-11 15:05:41,703 - DEBUG - username:Omjblqs0,password:4375298061@qq.com, password:123456, captcha:None
+2021-02-11 15:05:41,813 - ERROR - 断言失败:assert '注册成功，点击确定进行登录。' == ''
+  + 注册成功，点击确定进行登录。
+2021-02-11 15:05:41,813 - ERROR - 断言失败:assert '注册成功，点击确定进行登录。' == ''
+  + 注册成功，点击确定进行登录。
+2021-02-11 15:11:56,954 - DEBUG - username:2BAPSWVd,password:3906152874@qq.com, password:123456, captcha:666
+2021-02-11 15:11:57,059 - DEBUG - 验证码不正确
+2021-02-11 15:11:58,783 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'fkkr', 'id': '0771ea5365824dc2bfec2eb1cac0cb50'}}
+2021-02-11 15:11:58,783 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'fkkr', 'id': '0771ea5365824dc2bfec2eb1cac0cb50'}}
+2021-02-11 15:11:58,845 - DEBUG - username:Yv4CDpB5,password:0683792514@qq.com, password:123456, captcha:None
+2021-02-11 15:11:58,845 - DEBUG - username:Yv4CDpB5,password:0683792514@qq.com, password:123456, captcha:None
+2021-02-11 15:11:58,920 - DEBUG - 注册成功，点击确定进行登录。
+2021-02-11 15:11:58,920 - DEBUG - 注册成功，点击确定进行登录。
+2021-02-11 15:13:58,828 - DEBUG - username:ov7Xx0Hb,password:8750614293@qq.com, password:123456, captcha:666
+2021-02-11 15:13:58,930 - DEBUG - 验证码不正确
+2021-02-11 15:14:00,457 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'x9sm', 'id': '1bbdad8731c3497dba63a7794f0313c0'}}
+2021-02-11 15:14:00,457 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'x9sm', 'id': '1bbdad8731c3497dba63a7794f0313c0'}}
+2021-02-11 15:14:00,520 - DEBUG - username:ovnV9Z1f,password:7390142856@qq.com, password:123456, captcha:None
+2021-02-11 15:14:00,520 - DEBUG - username:ovnV9Z1f,password:7390142856@qq.com, password:123456, captcha:None
+2021-02-11 15:14:00,588 - DEBUG - 注册成功，点击确定进行登录。
+2021-02-11 15:14:00,588 - DEBUG - 注册成功，点击确定进行登录。
+2021-02-11 15:16:33,164 - DEBUG - username:ZuOQkjUr,password:2345689017@qq.com, password:123456, captcha:666
+2021-02-11 15:16:33,237 - DEBUG - alert弹窗信息：验证码不正确
+2021-02-11 15:16:34,799 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': '4jcb', 'id': 'c3c229a1a20949b89e2437837fafd332'}}
+2021-02-11 15:16:34,799 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': '4jcb', 'id': 'c3c229a1a20949b89e2437837fafd332'}}
+2021-02-11 15:16:34,864 - DEBUG - username:KOLyqfl4,password:3927046158@qq.com, password:123456, captcha:None
+2021-02-11 15:16:34,864 - DEBUG - username:KOLyqfl4,password:3927046158@qq.com, password:123456, captcha:None
+2021-02-11 15:16:34,960 - DEBUG - alert弹窗信息：注册成功，点击确定进行登录。
+2021-02-11 15:16:34,960 - DEBUG - alert弹窗信息：注册成功，点击确定进行登录。
+2021-02-11 15:16:52,645 - DEBUG - username:taolQVTZ,password:2587431096@qq.com, password:123456, captcha:666
+2021-02-11 15:16:52,716 - INFO - alert弹窗信息：验证码不正确
+2021-02-11 15:16:54,438 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'hbfm', 'id': '84459380c48b4a779010a429928ff24c'}}
+2021-02-11 15:16:54,438 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'hbfm', 'id': '84459380c48b4a779010a429928ff24c'}}
+2021-02-11 15:16:54,505 - DEBUG - username:qH624kPo,password:2641983507@qq.com, password:123456, captcha:None
+2021-02-11 15:16:54,505 - DEBUG - username:qH624kPo,password:2641983507@qq.com, password:123456, captcha:None
+2021-02-11 15:16:54,598 - INFO - alert弹窗信息：注册成功，点击确定进行登录。
+2021-02-11 15:16:54,598 - INFO - alert弹窗信息：注册成功，点击确定进行登录。
+2021-02-11 15:20:08,486 - DEBUG - 账号注册信息：username:xVmX18Y0,password:7462018953@qq.com, password:123456,captcha:666, expected:验证码不正确
+2021-02-11 15:20:08,557 - INFO - alert弹窗信息：验证码不正确
+2021-02-11 15:20:10,212 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'aurw', 'id': '6157bb9cd92a4b14bff723f370731a65'}}
+2021-02-11 15:20:10,212 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'aurw', 'id': '6157bb9cd92a4b14bff723f370731a65'}}
+2021-02-11 15:20:10,270 - DEBUG - 账号注册信息：username:9W2QNlga,password:5376940812@qq.com, password:123456,captcha:None, expected:注册成功，点击确定进行登录。
+2021-02-11 15:20:10,270 - DEBUG - 账号注册信息：username:9W2QNlga,password:5376940812@qq.com, password:123456,captcha:None, expected:注册成功，点击确定进行登录。
+2021-02-11 15:20:10,364 - INFO - alert弹窗信息：注册成功，点击确定进行登录。
+2021-02-11 15:20:10,364 - INFO - alert弹窗信息：注册成功，点击确定进行登录。
+2021-02-11 15:22:54,372 - INFO - 用户登录case：username:, password:123456
+2021-02-11 15:22:54,814 - INFO - 用户登录case：username:admin, password:123456
+2021-02-11 15:29:13,407 - INFO - 用户登录case：username:, password:123456
+2021-02-11 15:29:14,005 - INFO - 用户登录case：username:admin, password:123456
+2021-02-11 15:58:33,794 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 16:07:05,407 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 16:17:23,027 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 16:23:02,197 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 16:25:27,216 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 16:27:22,527 - INFO - admin登录case:username:admin, pwd:123456, captcha:666, expected:验证码不正确，请重新输入
+2021-02-11 16:29:13,547 - INFO - admin登录case:username:admin, pwd:123456, captcha:666, expected:验证码不正确，请重新输入
+2021-02-11 16:32:36,492 - DEBUG - 账号注册信息case：username:5mPpxzXD,password:6495107823@qq.com, password:123456,captcha:666, expected:验证码不正确
+2021-02-11 16:32:36,562 - INFO - alert弹窗信息：验证码不正确
+2021-02-11 16:32:38,131 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'xkdd', 'id': '21a6da742a524898a51dcdca49dc1238'}}
+2021-02-11 16:32:38,131 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'xkdd', 'id': '21a6da742a524898a51dcdca49dc1238'}}
+2021-02-11 16:32:38,193 - DEBUG - 账号注册信息case：username:zDTOIwRj,password:1508496732@qq.com, password:123456,captcha:None, expected:注册成功，点击确定进行登录。
+2021-02-11 16:32:38,193 - DEBUG - 账号注册信息case：username:zDTOIwRj,password:1508496732@qq.com, password:123456,captcha:None, expected:注册成功，点击确定进行登录。
+2021-02-11 16:32:38,258 - INFO - alert弹窗信息：注册成功，点击确定进行登录。
+2021-02-11 16:32:38,258 - INFO - alert弹窗信息：注册成功，点击确定进行登录。
+2021-02-11 16:36:38,643 - INFO - admin登录case:username:admin, pwd:123456, captcha:666, expected:验证码不正确，请重新输入
+2021-02-11 17:10:23,007 - INFO - admin登录case:username:admin, pwd:123456, captcha:666, expected:验证码不正确，请重新输入
+2021-02-11 17:16:31,480 - INFO - admin登录case:username:admin, pwd:123456, captcha:666, expected:验证码不正确，请重新输入
+2021-02-11 17:16:34,343 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': '3wnx', 'id': 'b1ffae5db1a04c8ea1bbf86c87b309df'}}
+2021-02-11 17:16:34,343 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': '3wnx', 'id': 'b1ffae5db1a04c8ea1bbf86c87b309df'}}
+2021-02-11 17:16:34,781 - INFO - admin登录case：username:admin, pwd:123456
+2021-02-11 17:16:34,781 - INFO - admin登录case：username:admin, pwd:123456
+2021-02-11 17:17:57,599 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 17:20:17,600 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 17:20:19,108 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'jy79', 'id': '1186ad44f5b14313acf57f70a74d7d0d'}}
+2021-02-11 17:20:19,108 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'jy79', 'id': '1186ad44f5b14313acf57f70a74d7d0d'}}
+2021-02-11 17:20:19,564 - INFO - username:admin, pwd:123456
+2021-02-11 17:20:19,564 - INFO - username:admin, pwd:123456
+2021-02-11 17:21:02,063 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 17:21:03,546 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'ew8h', 'id': '017bca4f3f9d461189ba39b5554f0750'}}
+2021-02-11 17:21:03,546 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'ew8h', 'id': '017bca4f3f9d461189ba39b5554f0750'}}
+2021-02-11 17:21:04,004 - INFO - username:admin, pwd:123456
+2021-02-11 17:21:04,004 - INFO - username:admin, pwd:123456
+2021-02-11 17:22:47,592 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 17:22:49,065 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'qr5s', 'id': 'f98e6af27c65400bb0cb2b1e9ca0afcf'}}
+2021-02-11 17:22:49,065 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'qr5s', 'id': 'f98e6af27c65400bb0cb2b1e9ca0afcf'}}
+2021-02-11 17:22:49,497 - INFO - username:admin, pwd:123456
+2021-02-11 17:22:49,497 - INFO - username:admin, pwd:123456
+2021-02-11 18:40:51,931 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 18:40:53,340 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'a6k8', 'id': 'd977bf063eeb43f993efb6eb979f8eb4'}}
+2021-02-11 18:40:53,340 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'a6k8', 'id': 'd977bf063eeb43f993efb6eb979f8eb4'}}
+2021-02-11 18:40:53,458 - INFO - username:admin, pwd:123456
+2021-02-11 18:40:53,458 - INFO - username:admin, pwd:123456
+2021-02-11 21:35:57,591 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 21:35:59,045 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'v4m9', 'id': 'e18ab7b7df764956ae21c7333cb9da59'}}
+2021-02-11 21:35:59,045 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'v4m9', 'id': 'e18ab7b7df764956ae21c7333cb9da59'}}
+2021-02-11 21:35:59,129 - INFO - username:admin, pwd:123456
+2021-02-11 21:35:59,129 - INFO - username:admin, pwd:123456
+2021-02-11 21:41:44,162 - INFO - username:admin, pwd:123456, captcha:666
+2021-02-11 21:41:45,628 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'oggb', 'id': 'f23c5b60579e4489a94fedc505783612'}}
+2021-02-11 21:41:45,628 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'oggb', 'id': 'f23c5b60579e4489a94fedc505783612'}}
+2021-02-11 21:41:45,747 - INFO - username:admin, pwd:123456
+2021-02-11 21:41:45,747 - INFO - username:admin, pwd:123456
+2021-02-11 21:44:21,597 - INFO - admin登录case:username:admin, pwd:123456, captcha:666, expected:验证码不正确，请重新输入
+2021-02-11 21:44:26,424 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'jxtf', 'id': 'ce34cea6b43b426bb02348c6cb7bf0ba'}}
+2021-02-11 21:44:26,424 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'jxtf', 'id': 'ce34cea6b43b426bb02348c6cb7bf0ba'}}
+2021-02-11 21:44:27,310 - INFO - admin登录case：username:admin, pwd:123456
+2021-02-11 21:44:27,310 - INFO - admin登录case：username:admin, pwd:123456
+2021-02-11 21:47:48,862 - INFO - admin登录case:username:admin, pwd:123456, captcha:666, expected:验证码不正确，请重新输入
+2021-02-11 21:47:50,458 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'hcr4', 'id': '316041e91812407b9cd9a137ad24c8d7'}}
+2021-02-11 21:47:50,458 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': 'hcr4', 'id': '316041e91812407b9cd9a137ad24c8d7'}}
+2021-02-11 21:47:51,146 - INFO - admin登录case：username:admin, pwd:123456
+2021-02-11 21:47:51,146 - INFO - admin登录case：username:admin, pwd:123456
+2021-02-11 21:50:36,327 - INFO - admin登录case:username:admin, pwd:123456, captcha:666, expected:验证码不正确，请重新输入
+2021-02-11 21:50:37,776 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': '5yaf', 'id': 'fc8e8cd03774467d84ec0d0b6bd4c379'}}
+2021-02-11 21:50:37,776 - INFO - {'success': True, 'code': '0', 'message': 'success', 'data': {'result': '5yaf', 'id': 'fc8e8cd03774467d84ec0d0b6bd4c379'}}
+2021-02-11 21:50:38,232 - INFO - admin登录case：username:admin, pwd:123456
+2021-02-11 21:50:38,232 - INFO - admin登录case：username:admin, pwd:123456
