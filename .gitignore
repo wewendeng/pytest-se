@@ -149,5 +149,6 @@ Desktop.ini
 # github merge file
 *.orig
 
-#vscode
-.vscode
+# ide
+.vscode/
+.idea/
